@@ -1,0 +1,2 @@
+# manual
+Cultlang Documentation System
